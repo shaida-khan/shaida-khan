@@ -5,9 +5,6 @@ Entry-Level Data Scientist with hands-on experience in Python, machine learning,
 Experienced in building end-to-end machine learning projects using real-world datasets and deploying models for predictive tasks.
 
 ---
-
-## 🔧 Skills
-
 ## 🔧 Skills
 
 🐍 Python  
@@ -39,3 +36,15 @@ Deep learning model for clothing image classification using a convolutional neur
 
 Email: smbabar1966@gmail.com  
 Location: United States
+
+---
+
+## 📊 GitHub Stats
+
+![Shaida's GitHub stats](https://github-readme-stats.vercel.app/api?username=smbabar1966-glitch&show_icons=true&theme=github_dark)
+
+---
+
+## 💻 Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=smbabar1966-glitch&layout=compact&theme=github_dark)
