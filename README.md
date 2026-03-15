@@ -47,8 +47,4 @@ Location: United States
 
 ## 💻 Top Languages
 
----
-
-## 💻 Top Languages
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=smbabar1966-glitch&layout=compact&theme=github_dark)
