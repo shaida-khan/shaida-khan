@@ -22,13 +22,19 @@ Experienced in building end-to-end machine learning projects using real-world da
 ## 🚀 Featured Projects
 
 ### Rainfall Prediction Classifier
-Machine learning model to predict rainfall using historical weather data.
+Machine learning model to predict rainfall using historical weather data using Scikit-Learn.
 
 ### Falcon 9 Landing Prediction
 Predicting SpaceX Falcon 9 first-stage landing success using machine learning.
 
 ### Fashion-MNIST CNN (PyTorch)
 Deep learning model for clothing image classification using a convolutional neural network.
+
+### Stock Price Analysis (Python + SQL)
+End-to-end analysis of historical stock price and revenue data using Python, SQL, and visualization techniques.
+
+### World Population Analysis
+Exploratory data analysis of global population trends using Python and data visualization.
 
 ---
 
