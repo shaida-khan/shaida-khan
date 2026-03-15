@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Shaida Khan 👋
 
-<!--
-**smbabar1966-glitch/smbabar1966-glitch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Entry-Level Data Scientist with hands-on experience in **Python, data analysis, machine learning, and deep learning**.
 
-Here are some ideas to get you started:
+I enjoy building end-to-end projects using real-world datasets and developing machine learning models.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 Skills
+
+- Python
+- Machine Learning
+- Deep Learning
+- PyTorch
+- Pandas
+- Scikit-Learn
+- Data Visualization
+- Matplotlib
+
+---
+
+## 🚀 Featured Projects
+
+### Rainfall Prediction Classifier
+Machine learning model to predict rainfall using historical weather data.
+
+### Falcon 9 Landing Prediction
+Predicting SpaceX Falcon 9 first-stage landing success using machine learning.
+
+### Fashion-MNIST CNN (PyTorch)
+Deep learning model for clothing image classification using a convolutional neural network.
+
+---
+
+## 📫 Contact
+
+Email: smbabar1966@gmail.com  
+Location: United States
