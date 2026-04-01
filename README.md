@@ -1,40 +1,71 @@
-Hi, I'm Shaida Khan 👋  
+Hi, I'm Shaida 👋
 Data Scientist | Machine Learning | Deep Learning
 
-Entry-Level Data Scientist with hands-on experience in Python, machine learning, deep learning, and data analysis.  
-Experienced in building end-to-end machine learning projects using real-world datasets and deploying models for predictive tasks.
+Entry-level Data Scientist with hands-on experience in Python, machine learning, and deep learning.
+Skilled in building end-to-end models including classification, regression, and neural networks using real-world datasets.
+
+Currently completing the IBM AI Engineering Professional Certificate and actively building practical AI projects in NLP and computer vision.
+
 
 ---
 ## 🔧 Skills
 
-🐍 Python  
-🔥 PyTorch  
-🤖 Machine Learning  
-🧠 Deep Learning  
-📊 Data Science  
-🐼 Pandas  
-📈 Scikit-Learn  
-📉 Data Visualization 
-🧮 NumPy
+**Programming & Tools**
+
+* Python
+* NumPy, Pandas
+* Matplotlib
+
+**Machine Learning**
+
+* Scikit-learn
+* Classification & Regression
+* Model Evaluation (Accuracy, Precision, Recall, F1)
+
+**Deep Learning**
+
+* PyTorch
+* Neural Networks (CNN, RNN, Seq2Seq)
+
+**Data Analysis**
+
+* Data Cleaning & Preprocessing
+* Exploratory Data Analysis (EDA)
+
+**Currently Learning**
+
+* Transformer Models
+* Computer Vision (Object Detection)
+
 
 ---
 
 ## 🚀 Featured Projects
 
-### Rainfall Prediction Classifier
-Machine learning model to predict rainfall using historical weather data using Scikit-Learn.
+### 🤖 Seq2Seq Language Translation (German → English) ⭐
 
-### Falcon 9 Landing Prediction
-Predicting SpaceX Falcon 9 first-stage landing success using machine learning.
+Built a Seq2Seq (LSTM encoder–decoder) neural machine translation model in PyTorch for German-to-English translation. Implemented teacher forcing, sequence generation, and evaluation using BLEU score, along with a full training pipeline including batching and padding.
 
-### Fashion-MNIST CNN (PyTorch)
-Deep learning model for clothing image classification using a convolutional neural network.
+### 🌧 Rainfall Prediction Classifier
 
-### Stock Price Analysis (Python + SQL)
-End-to-end analysis of historical stock price and revenue data using Python, SQL, and visualization techniques.
+Built a machine learning model using Scikit-learn to predict rainfall based on historical weather data, achieving high classification accuracy through feature engineering and model evaluation.
 
-### World Population Analysis
-Exploratory data analysis of global population trends using Python and data visualization.
+### 🚀 Falcon 9 Landing Prediction
+
+Developed a predictive model to determine SpaceX Falcon 9 first-stage landing success using machine learning techniques and real-world launch data.
+
+### 👕 Fashion-MNIST CNN (PyTorch)
+
+Implemented a convolutional neural network (CNN) in PyTorch for image classification, achieving strong performance on the Fashion-MNIST dataset.
+
+### 📈 Stock Price Analysis (Python + SQL)
+
+Performed end-to-end analysis of stock price and revenue data using Python and SQL, including data cleaning, visualization, and trend analysis.
+
+### 🌍 World Population Analysis
+
+Conducted exploratory data analysis (EDA) on global population trends using Python, uncovering insights through visualization and statistical analysis.
+
 
 ---
 
