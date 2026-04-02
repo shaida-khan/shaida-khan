@@ -1,5 +1,6 @@
-Hi, I'm Shaida 👋
-Data Scientist | Machine Learning | Deep Learning
+Hi, I'm Shaida 👋  
+Data Scientist | Machine Learning | Deep Learning  
+Python & PyTorch | IBM AI Engineering (in progress)
 
 Entry-level Data Scientist with hands-on experience in Python, machine learning, and deep learning.
 Skilled in building end-to-end models including classification, regression, and neural networks using real-world datasets.
