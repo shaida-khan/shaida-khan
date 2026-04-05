@@ -46,11 +46,11 @@ Currently completing the IBM AI Engineering Professional Certificate and activel
 
 Built a Seq2Seq (LSTM encoder–decoder) neural machine translation model in PyTorch for German-to-English translation. Implemented teacher forcing, sequence generation, and evaluation using BLEU score, along with a full training pipeline including batching and padding.
 
-## 🌧 Rainfall Prediction Classifier
+## 🌧️ [Rainfall Prediction Classifier](https://github.com/shaida-khan/rainfall-prediction-ml)
 
 Built a machine learning model using Scikit-learn to predict rainfall based on historical weather data, achieving high classification accuracy through feature engineering and model evaluation.
 
-## 🚀 Falcon 9 Landing Prediction
+## 🚀 [Falcon 9 Landing Prediction](https://github.com/shaida-khan/spacex-landing-prediction-ml)
 
 Developed a predictive model to determine SpaceX Falcon 9 first-stage landing success using machine learning techniques and real-world launch data.
 
