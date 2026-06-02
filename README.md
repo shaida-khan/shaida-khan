@@ -31,6 +31,7 @@ Bringing extensive engineering, technical training, and analytical problem-solvi
   * Machine Learning: Logistic Regression, SVM, Decision Tree, and KNN.
   * Best Model Accuracy: 83.33%.
   * Repository: github.com/shaida-khan/spacex-landing-prediction-ml
+  * Completed as the IBM Data Science Professional Certificate Capstone Project.
 
 
 Bringing extensive engineering, technical training, and problem-solving experience into AI-driven solutions.
