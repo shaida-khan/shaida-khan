@@ -2,17 +2,36 @@
 
 IBM Certified AI Engineering & Data Science Professional
 
-Machine Learning | Deep Learning | NLP | Computer Vision | AI Applications
+Machine Learning | Data Science | SQL | NLP | Computer Vision | AI Applications
 
 Bringing extensive engineering, technical training, and analytical problem-solving experience into AI-driven solutions and data-focused applications.
 
-## Real-World AI Projects
+## ## Real-World AI Projects
 
-- ♻️ Smart Waste Sorting System (TensorFlow + Gradio + Hugging Face)
-- 🏗️ Infrastructure Crack Detection System (PyTorch + Computer Vision)
-- 🤖 PrimeAI Document QA & Resume Intelligence System (RAG + LLM)
-- 🌧️ Rainfall Prediction ML System
-- 🚀 Falcon 9 Landing Success Prediction
+* ♻️ Smart Waste Sorting System (TensorFlow + Gradio + Hugging Face)
+
+  * Real-time waste classification using deep learning and computer vision.
+
+* 🏗️ Infrastructure Crack Detection System (PyTorch + Computer Vision)
+
+  * AI-powered crack detection for infrastructure inspection and maintenance.
+
+* 🤖 PrimeAI Document QA & Resume Intelligence System (RAG + NLP)
+
+  * Resume analysis, document question-answering, interview preparation, and job matching.
+
+* 🌧️ Rainfall Prediction ML System
+
+  * Machine learning model for weather prediction and classification.
+
+* 🚀 SpaceX Falcon 9 Landing Prediction (IBM Data Science Capstone)
+
+  * End-to-end data science project using SpaceX API and Wikipedia data.
+  * Data Collection, Data Wrangling, SQL Analysis, EDA, Folium Maps, Plotly Dash.
+  * Machine Learning: Logistic Regression, SVM, Decision Tree, and KNN.
+  * Best Model Accuracy: 83.33%.
+  * Repository: github.com/shaida-khan/spacex-landing-prediction-ml
+
 
 Bringing extensive engineering, technical training, and problem-solving experience into AI-driven solutions.
 
